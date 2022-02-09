@@ -1,3 +1,6 @@
 print("Hello World!")
-a = 10 + 5
-print(a) 
+ 
+def addition(a, b):
+  return a+b
+
+print(addition(10,20))
